@@ -61,6 +61,9 @@ export function Presentation() {
             ))}
           </div>
           <Button
+            component="a"
+            href="https://api.whatsapp.com/send?phone=5571982428566&text=Ol%C3%A1%2C%20gostaria%20de%20fazer%20uma%20reserva"
+            target="_blank"
             size="lg"
             variant="filled"
             color="#FA5252"
