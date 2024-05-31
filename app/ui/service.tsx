@@ -22,7 +22,7 @@ const serviceItems = {
     reverse: false,
     items: [
       {
-        title: 'Funcionamos das 8h às 20h pra te atender',
+        title: 'Atendimento 24 horas',
         icon: <TbClockHour3 size={20} color="#FF8787" />,
       },
       {

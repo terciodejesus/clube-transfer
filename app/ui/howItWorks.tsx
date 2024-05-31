@@ -20,6 +20,7 @@ export function HowItWorks() {
               muted
               preload="none"
               loop
+              playsInline={true}
             >
               <source src="/how-it-works-video.mp4" type="video/mp4" />
             </video>

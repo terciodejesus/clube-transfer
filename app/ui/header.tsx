@@ -8,11 +8,12 @@ export default function Header() {
   return (
     <div className="flex items-center h-[648px] w-full pr-6 bg-daintree relative overflow-hidden">
       <video
-        className="absolute h-screen min-w-fit md:h-auto w-full"
+        className="absolute md:h-auto min-w-max w-full"
         autoPlay
         muted
         preload="none"
         loop
+        playsInline={true}
       >
         <source src="/video.mp4" type="video/mp4" />
       </video>
