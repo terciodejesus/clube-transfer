@@ -23,7 +23,7 @@ export default function Header() {
           className={`${inriaSans.className} text-[40px] lg:text-[67px] text-white font-bold leading-[41px] lg:leading-[85px]`}
         >
           Aproveite a viagem e{' '}
-          <span className="text-carnation-4">descubra</span> a bahia.
+          <span className="text-carnation-4">descubra</span> a Bahia.
         </span>
         <p className="text-base leading-6 lg:text-2xl text-white">
           Curta sua viagem ao máximo a preços acessíveis com o Clube Transfer
